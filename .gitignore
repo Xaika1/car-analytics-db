@@ -1,0 +1,22 @@
+# Локальные файлы
+*.log
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.tmp
+*.bak
+
+# Пароли и секреты
+*.key
+*.pem
